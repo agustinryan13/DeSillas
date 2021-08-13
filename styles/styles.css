@@ -1,0 +1,43 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    background: url(../img/fondo.png);
+    background-repeat: repeat-x repeat-y;
+}
+.fondo {
+    background-image: url(../img/fondopro.png);
+}
+
+
+.letrasnav {
+    font-size: 1,2em;
+    font-weight: 600;
+    padding:0px 20px;
+
+}
+.letrasnav2 {
+    font-size: 1,8em;
+    font-weight: 300;
+    padding:0px 20px;
+
+}
+.activo{
+    padding-bottom: 16px;
+    border-bottom: solid #ff1d35 7px;
+}
+.fot{
+    height: 55px;
+}
+
+.fot2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    text-align: center;
+    padding-top: 18px;
+    color: white;
+}
+.fot3{
+    padding-top: 12.5px;
+}
+
